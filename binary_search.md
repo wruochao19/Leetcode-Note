@@ -44,3 +44,5 @@ class Solution{
 > Given the sorted rotated array nums of unique elements, return the minimum element of this array. 
 
 > You must write an algorithm that runs in O(log n) time.
+
+[Leetcode 34. Find the first and last postion of Element in Sorted Array](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
