@@ -37,3 +37,5 @@ class Solution{
 - [Leetcode 162. Find Peak Element](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/162.%20Find%20Peak%20Element.md)
 - [Leetcode 153. Find Minimum in Rotated Sorted Array](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 - [Leetcode 275. H-Index II](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/275.%20H-Index%20II)
+- [Leetcode 81. Search in Rotated Sorted Array II.md](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)
+- [Leetcode 33. Search in Rotated Sorted Array](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
