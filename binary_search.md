@@ -31,18 +31,9 @@ class Solution{
 
 ```
 
-## 二分搜索题目笔记
+## 二分搜索相关题目笔记
 
-> Leetcode 153. Find Minimum in Rotated Sorted Array.
-
-> Suppose an array of length n sorted in ascending order is rotated between 1 and n times. For example, the array nums = [0,1,2,4,5,6,7] might become: 
-> - [4,5,6,7,0,1,2] if it was rotated 4 times.
-> - [0,1,2,4,5,6,7] if it was rotated 7 times. 
-
-> Notice that rotating an array [a[0], a[1], a[2], ..., a[n-1]] 1 time results in the array [a[n-1], a[0], a[1], a[2], ..., a[n-2]]. 
-
-> Given the sorted rotated array nums of unique elements, return the minimum element of this array. 
-
-> You must write an algorithm that runs in O(log n) time.
-
-[Leetcode 34. Find the first and last postion of Element in Sorted Array](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
+- Leetcode 153. Find Minimum in Rotated Sorted Array
+- [Leetcode 34. Find the first and last postion of Element in Sorted Array](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
+- [Leetcode 162. Find Peak Element](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/162.%20Find%20Peak%20Element.md)
+- [Leetcode 153. Find Minimum in Rotated Sorted Array](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
