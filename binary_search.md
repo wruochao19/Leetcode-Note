@@ -42,4 +42,5 @@ class Solution{
 - [154. Find Minimum in Rotated Sorted Array II [H]](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II%20%5BH%5D.md)
 - [540. Single Element in a Sorted Array](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/540.%20Single%20Element%20in%20a%20Sorted%20Array.md)
 - [240. Search a 2D Matrix II](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/540.%20Single%20Element%20in%20a%20Sorted%20Array.md)
-- [74. Search a 2D Matrix](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/540.%20Single%20Element%20in%20a%20Sorted%20Array.md)
+- [74. Search a 2D Matrix](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/74.%20Search%20a%202D%20Matrix.md)
+- [1011. Capacity To Ship Packages Within D Days](https://github.com/wruochao19/Leetcode-Note/blob/main/Binary_Search/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md)
